@@ -1,1 +1,1 @@
-# coordinate-robotics.github.io
+# CoordinateRobotics.github.io
